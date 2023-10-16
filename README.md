@@ -2,7 +2,7 @@
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on Library Project
-- 📫 How to reach me :gmail:hoanganhonzed@gmai.com.
+- 📫 How to reach me 📧 hoanganhonzed@gmai.com.
 
 <!---
 nhoxlovew/nhoxlovew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
