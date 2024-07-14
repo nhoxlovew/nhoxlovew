@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nhoxlovew
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on Library Project
+- 💞️ I’m looking to collaborate on Minecraft mods
 - 📫 How to reach me 📧 hoanganhonzed@gmai.com.
 
 <!---
