@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hoang Anh
 - 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Dart,Java,Js.
+- 🌱 I’m currently learning Dart,Js.
 - 💞️ I’m looking to collaborate on Minecraft mods
 - 📫 How to reach me 📧 hoanganhonzed@gmai.com.
 
