@@ -3,7 +3,7 @@
     <td>
       
 - 👋 Hi, I’m Hoang Anh  
-- 👀 I’m interested in Mobile Development  
+- 👀 I’m interested in Mobile Development and Front-End Web Development
 - 🌱 I’m currently learning Dart and JavaScript  
 - 💞️ I’m looking to collaborate on mobile app projects  
 - 📫 How to reach me: [hoanganhonzed@gmail.com](mailto:hoanganhonzed@gmail.com)  
