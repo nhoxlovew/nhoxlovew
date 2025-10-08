@@ -31,12 +31,6 @@ Here are some of my GitHub stats that reflect my activity:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhoxlovew&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-- **Total Stars Earned**: 21
-- **Total Commits (last year)**: 446
-- **Total PRs**: 0
-- **Total Issues**: 15
-- **Contributed to (last year)**: 2
-
 ---
 
 ## 💻 Projects I'm Working On
