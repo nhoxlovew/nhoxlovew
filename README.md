@@ -7,22 +7,24 @@
 
 ---
 
-## 🚀 Technologies and Tools I Use
+## 📘 Technologies and Tools 🖥 
 
-Here are some of the technologies and tools I'm currently working with:
+I work with a variety of technologies and tools to build amazing projects. Here are the ones I use the most:
 
 - **Languages**: Python, JavaScript, TypeScript, Java, HTML, CSS
 - **Frontend**: React, Next.js, HTML, CSS, TypeScript
 - **Backend**: FastAPI, Node.js, Express.js
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Dev Tools**: VS Code, Docker, Git, GitHub, Postman
-- **Others**: Virtual Environments, Jupyter Notebooks, FastAPI, SQLServer
+- **Others**: Virtual Environments, Jupyter Notebooks, SQLServer
 
-![Tech Stack](https://techstack-image-url-here)
+![Tech Stack](https://techstack-image-url-here) <!-- Replace with a tech stack image -->
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Stats 🔥
+
+Here are some of my GitHub stats that reflect my activity:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhoxlovew&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
@@ -34,45 +36,29 @@ Here are some of the technologies and tools I'm currently working with:
 
 ---
 
-## 📈 Most Used Languages
+## 🔔 Contact Me 🔔
 
-![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nhoxlovew&langs_count=10&theme=radical)
+You can reach me through these platforms:
 
-- Python 83.54%
-- Jupyter Notebook 14.82%
-- Java 0.71%
-- C++ 0.36%
-- HTML 0.05%
-
----
-
-## 🎥 Animated GIF
-
-![GitHub Readme GIF](https://media.giphy.com/media/5nKQm4X0br8XlXygUq/giphy.gif)
-
----
-
-## 📫 Contact Me
-
-You can reach me at the following links:
-- [Email](mailto:hoanganhonzed@gmail.com)
-- [Facebook](https://facebook.com/your-profile)
-- [Instagram](https://instagram.com/your-profile)
-- [GitHub](https://github.com/nhoxlovew)
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [YouTube](https://youtube.com/c/your-channel)
+- 📧 [Email me](mailto:hoanganhonzed@gmail.com)
+- 📱 [Facebook](https://facebook.com/your-profile)
+- 📸 [Instagram](https://instagram.com/your-profile)
+- 🧑‍💻 [GitHub](https://github.com/nhoxlovew)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🎥 [YouTube](https://youtube.com/c/your-channel)
 
 ---
 
 ## 💻 Projects I'm Working On
 
-- Project 1: Description of project 1.
-- Project 2: Description of project 2.
-- Project 3: Description of project 3.
+- **Project 1**: Description of project 1.
+- **Project 2**: Description of project 2.
+- **Project 3**: Description of project 3.
 
 ---
 
 ## ⚡ Fun Facts
+
 - I enjoy playing video games.
 - I'm passionate about open-source contributions.
 - I love learning new tech stacks.
