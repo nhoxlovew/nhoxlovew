@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning JavaScript, React, and Next.js.
 - 💞️ I’m looking to collaborate on mobile app and web projects  
 - 📫 How to reach me: [hoanganhonzed@gmail.com](mailto:hoanganhonzed@gmail.com)
+- 📱 [Facebook](https://facebook.com/your-profile)
+- 📸 [Instagram](https://instagram.com/your-profile)
+- 
 
 ---
 
@@ -33,19 +36,6 @@ Here are some of my GitHub stats that reflect my activity:
 - **Total PRs**: 0
 - **Total Issues**: 15
 - **Contributed to (last year)**: 2
-
----
-
-## 🔔 Contact Me 🔔
-
-You can reach me through these platforms:
-
-- 📧 [Email me](mailto:hoanganhonzed@gmail.com)
-- 📱 [Facebook](https://facebook.com/your-profile)
-- 📸 [Instagram](https://instagram.com/your-profile)
-- 🧑‍💻 [GitHub](https://github.com/nhoxlovew)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🎥 [YouTube](https://youtube.com/c/your-channel)
 
 ---
 
