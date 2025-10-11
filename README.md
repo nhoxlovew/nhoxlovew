@@ -21,9 +21,6 @@ I work with a variety of technologies and tools to build amazing projects. Here 
 - **Dev Tools**: VS Code, Docker, Git, GitHub, Postman
 - **Others**: Virtual Environments, Jupyter Notebooks, SQLServer
 
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![Tailwind](https://cdn.jsdelivr.net/npm/tailwindcss@2.0.2/dist/tailwind.min.css)
-
 
 ---
 
