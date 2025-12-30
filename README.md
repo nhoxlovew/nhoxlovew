@@ -20,10 +20,10 @@ I work with a variety of technologies and tools to build amazing projects. Here 
 - **Dev Tools**: VS Code, Docker, Git, GitHub, Postman
 - **Others**: Virtual Environments, Jupyter Notebooks, SQLServer
 
-
+<!--
 ---
 
-<!--## 🔥 GitHub Stats 🔥
+## 🔥 GitHub Stats 🔥
 
 Here are some of my GitHub stats that reflect my activity:
 
@@ -36,9 +36,9 @@ Here are some of my GitHub stats that reflect my activity:
 - **Project 1**: Description of project 1.
 - **Project 2**: Description of project 2.
 - **Project 3**: Description of project 3.
--->
----
 
+---
+-->
 ## ⚡ Fun Facts
 
 - I enjoy playing video games.
