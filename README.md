@@ -6,7 +6,6 @@
 - 📫 How to reach me: [hoanganhonzed@gmail.com](mailto:hoanganhonzed@gmail.com)
 - 📱 [Facebook](https://facebook.com/your-profile)
 - 📸 [Instagram](https://instagram.com/your-profile)
-- 
 
 ---
 
@@ -24,7 +23,7 @@ I work with a variety of technologies and tools to build amazing projects. Here 
 
 ---
 
-## 🔥 GitHub Stats 🔥
+<!--## 🔥 GitHub Stats 🔥
 
 Here are some of my GitHub stats that reflect my activity:
 
@@ -37,7 +36,7 @@ Here are some of my GitHub stats that reflect my activity:
 - **Project 1**: Description of project 1.
 - **Project 2**: Description of project 2.
 - **Project 3**: Description of project 3.
-
+-->
 ---
 
 ## ⚡ Fun Facts
